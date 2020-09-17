@@ -1,2 +1,2 @@
 # Unit-1-Homework
-Condensing code for Horiseon site.
+This code was provided to me for the purpose of condensing code for the Horiseon site homepage.
